@@ -1,0 +1,19 @@
+{
+  "name": "tea-ai-telegram-app",
+  "version": "1.0.0",
+  "description": "AI based application used for telegram followings optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terziisk/tea-ai-telegram-app.git"
+  },
+  "author": "Artem Terziiskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terziisk/tea-ai-telegram-app/issues"
+  },
+  "homepage": "https://github.com/terziisk/tea-ai-telegram-app#readme"
+}
