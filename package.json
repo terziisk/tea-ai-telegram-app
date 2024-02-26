@@ -1,5 +1,5 @@
 {
-  "name": "discord-simple-api",
+  "name": "tea-ai-telegram-app",
   "version": "1.0.0",
   "description": "Discord API v10 wrapper for managing messages, channels, roles, and user interactions.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dante4rt/Discord-Simple-API.git"
+    "url": "git+https://github.com/terziisk/tea-ai-telegram-app.git"
   },
   "keywords": [
     "discord",
@@ -17,13 +17,14 @@
     "wrapper",
     "dc"
   ],
-  "author": "Muhammad Ramadhani",
+  "author": "Artem Terziisky",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dante4rt/Discord-Simple-API/issues"
+    "url": "https://github.com/terziisk/tea-ai-telegram-app/issues"
   },
-  "homepage": "https://github.com/dante4rt/Discord-Simple-API#readme",
+  "homepage": "https://github.com/terziisk/tea-ai-telegram-app#readme",
   "dependencies": {
-    "axios": "^1.6.5"
+    "axios": "^1.6.5",
+    "lodash": "^4.17.21"
   }
 }

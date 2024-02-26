@@ -1,4 +1,4 @@
-# Discord-Simple-API
+# AI telegram app
 
 This package is a powerful wrapper for Discord API v10, designed for easy interaction with Discord functionalities including message management, channel operations, role handling, and more.
 
@@ -12,7 +12,7 @@ This package is a powerful wrapper for Discord API v10, designed for easy intera
 ## Installation
 
 ```bash
-npm install discord-simple-api
+npm install tea-ai-telegram-app
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ npm install discord-simple-api
 Here's how you can use the Discord-Simple-API:
 
 ```javascript
-const Discord = require('discord-simple-api');
+const Discord = require('tea-ai-telegram-app');
 const discordClient = new Discord('YOUR_DISCORD_BOT_TOKEN');
 ```
 
